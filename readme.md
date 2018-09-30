@@ -21,7 +21,7 @@ curl -X GET \
   -H 'Authorization: Bearer xxx' \
   -H 'Cache-Control: no-cache' \
   -H 'Content-Type: application/json' \
-  -H 'Postman-Token: 257bd18a-ebd7-4f9c-bd9a-94a640f6ff6a' `
+  `
   
   You'll be able to get a list of tasks : 
   
